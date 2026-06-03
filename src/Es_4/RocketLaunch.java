@@ -11,17 +11,23 @@ public class RocketLaunch {
         int seconds = Integer.parseInt(scanner.nextLine());
         if (seconds < 0) {
             seconds = Math.abs(seconds);
-            System.out.println(Math.abs(seconds));
         }
-        if (seconds > 20) {
+        if (seconds > 20 || seconds < 11) {
             seconds = 20;
-            System.out.println(seconds);
         }
         System.out.println("Secondi al lancio: " + seconds);
-        System.out.println(seconds);
-//        for (int i = seconds; i >= 0; i--){
-//            if()
-//        }
+        for (int i = seconds; i >= 0; i--) {
+            if (i == 10) {
+                System.out.println("[OK] " + i);
+                System.out.println("-- SEPARAZIONE STADIO --");
+            } else if (i == 0) {
+                System.out.println("--- IGNITION ---");
+            } else if (i % 2 == 0) {
+                System.out.println("[OK] " + i);
+            } else {
+                System.out.println("[CHECK] " + i);
+            }
+        }
     }
 
     static void main(String[] args) {
