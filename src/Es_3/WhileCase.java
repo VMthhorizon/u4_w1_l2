@@ -7,8 +7,8 @@ public class WhileCase {
 
     public static void myWhile() {
 
+        Scanner scanner = new Scanner(System.in);
         while (true) {
-            Scanner scanner = new Scanner(System.in);
             System.out.println("INSERISCI UNA STRINGA");
             String parola = scanner.nextLine();
             String[] lettere = parola.split("");
