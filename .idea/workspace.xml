@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4eb800c0-186b-4b85-b43b-e5590f1e7b98" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Es_1/Bisestile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Es_1/Bisestile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Es_3/WhileCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Es_3/WhileCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "VMthhorizon"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VMthhorizon&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/VMthhorizon/u4_w1_l2.git",
-    "accountId": "a136a423-a82b-4f2b-821a-5a6893ab4472"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VMthhorizon/u4_w1_l2.git&quot;,
+    &quot;accountId&quot;: &quot;a136a423-a82b-4f2b-821a-5a6893ab4472&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1,
   &quot;fromUser&quot;: false
@@ -54,6 +52,7 @@
     "Application.WhileCase.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
